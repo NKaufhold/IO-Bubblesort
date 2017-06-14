@@ -9,4 +9,5 @@ ________________________________________________________________________________
 This little application takes the input from the console, saves it in an array, sorts the array with a bubblesort algorithm and finally gives the new order as output back to the console.
 
 Used OS to code: Ubuntu
+
 Used editor: Kate
