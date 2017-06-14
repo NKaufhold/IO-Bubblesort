@@ -1,7 +1,9 @@
 # IO-Bubblesort
 
 _____________________________________________________________________________________________________________________________
-This repository is my first try on GitHub as well as my first attempt to code with C++. I have to apologize for every mistake.
+This repository is my first try on GitHub as well as my first attempt to code with C++. It was part of a C++ training three months ago.
+
+I have to apologize for every mistake.
 
 My comments are in German. In the future, I'll write them in English.
 _____________________________________________________________________________________________________________________________
